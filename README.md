@@ -19,6 +19,10 @@ Speech Recognizatin System using an Arduino Uno microcontroller. The system is d
 
 # Software Requirement:
 1. Tinkercad
+
+# Operation
+In this system it detects the sound and measure the high frequency.
+Display the frequency on Multimeter.
 # Circuit Digram Of the Task
 ![Image](https://github.com/user-attachments/assets/76617d6b-7e9e-4962-80bf-432fa2a94067)
 
